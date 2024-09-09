@@ -53,7 +53,7 @@
     "minimatch": "^3.0.4"
   },
   "dependencies": {
-    "angular": "^1.7.7",
+    "angular": "^1.8.3",
     "angular-animate": "^1.7.7",
     "angular-mocks": "^1.7.7",
     "angular-route": "^1.7.7",
